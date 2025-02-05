@@ -1,0 +1,33 @@
+I. Algorithme de base : brosser les dents
+
+	1. D'abord, il faut :
+		- de l'eau, 
+		- du dentifrice, 
+		- de la brosse à dents
+	2. Ensuite,
+		- mouiller la brosse à dents avec un peu d'eau
+		- Appliquer le dentifrice sur la brosse à dents
+		- Brosser les dents avec la brosse à dents pendant environ 3 minutes
+	3. Après avoir brossé les dents, 
+		- Rincer la bouche avec de l'eau
+		- Rincer la brosse à dents avec de l'eau
+		- Essuyer la bouche
+		- Ranger la brosse à dents
+		
+
+II. Algorithme de tri de selection
+	critères de comparaison : surface
+	stratégie : comparaison
+	
+	
+	Debut
+	- Sélectionner deux livres et comparer leurs surfaces
+	- Retenir le livre ayant la plus grande surface
+	- Comparer ce livre avec un autre parmi ceux non triés
+	- Répéter cette comparaison jusqu'à identifier le livre ayant la plus grande surface parmi tous les livres
+	- Placer ce livre en premier dans la pile triée
+	- Répéter cette boucle jusqu'à ce que tous les livres soient triés
+	
+	
+
+
